@@ -1,0 +1,1 @@
+﻿本仓库存放EtherCAT基本通信的Demo工程,基于小华半导体HC32F460+Microchip LAN9253平台搭建，仅供参考。
